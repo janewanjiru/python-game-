@@ -1,4 +1,4 @@
-# guessing number using while if statement in python
+# guessing a number using while if statement in python
 import random
 
 play_game='n'
